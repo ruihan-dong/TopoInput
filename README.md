@@ -1,4 +1,5 @@
-# TopoInput: TopoBuilder Input PyMOL Plugin
+## TopoInput: TopoBuilder Input PyMOL Plugin
+
 
 #### Requirements
 
@@ -7,6 +8,7 @@ PyMOL 2.x
 Python 2.7
 
 TopoBuilder v1.0.2
+
 
 #### Install
 
@@ -27,6 +29,7 @@ Install with PyMOL's plugin manager:
 Plugin > Plugin Manger > Install New Plugin > Install from local file
 
 Simply choose the TopoInput.zip
+
 
 #### Usage
 
@@ -58,11 +61,14 @@ If you are not satisfied with the shown shapesketch, you can adjust the paramete
 
 The entire output files of TopoBuilder will appear in working directory, including all connection ways of this sketch.
 
+
 #### To Do
 
 More interactive dialog for designing simple scaffolds
 
 Python 3 version for new TopoBuilder
+
+
 
 #### References
 
